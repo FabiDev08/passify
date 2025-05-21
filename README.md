@@ -11,5 +11,5 @@ It allows you to quickly create secure passwords directly from the terminal, wit
 - Quickly generate multiple passwords
 - Clean and colored terminal interface
 
-## License
+## 📄 License
 This project is licensed under the MIT License.
