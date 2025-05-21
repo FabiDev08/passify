@@ -3,6 +3,14 @@
 This is a simple, intuitive password generator written in Python.
 It allows you to quickly create secure passwords directly from the terminal, with customizable options.
 
+## Features
+
+- ✅ Choose whether to include **numbers** and **punctuation**
+- ✅ Set your desired **password length**
+- ✅ Automatically copy the password to your **clipboard**
+- ✅ Generate multiple passwords without restarting
+- ✅ Clean and color-coded terminal interface
+
 ## A Simple Example
 
 ```bash
