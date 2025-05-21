@@ -3,7 +3,7 @@
 This is a simple, intuitive password generator written in Python.
 It allows you to quickly create secure passwords directly from the terminal, with customizable options.
 
-## ✨️Features
+## ✨️ Features
 
 - Choose whether to include **numbers** and **punctuation**
 - Set your desired **password length**
